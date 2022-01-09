@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blockore:block/coal_smooth_block",
+    "top": "blockore:block/coal_smooth_block",
+    "side": "blockore:block/coal_smooth_block_side"
+  }
+}

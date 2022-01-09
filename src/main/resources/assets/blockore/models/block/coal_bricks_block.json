@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+  	"all": "blockore:block/coal_bricks"
+  }
+}

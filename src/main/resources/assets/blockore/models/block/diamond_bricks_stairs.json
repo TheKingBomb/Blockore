@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "blockore:block/cut_diamond",
+    "top": "blockore:block/cut_diamond",
+    "side": "blockore:block/cut_diamond"
+  }
+}
