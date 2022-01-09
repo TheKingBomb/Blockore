@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "blockore",
+  "version": "1.0.1",
+  "name": "Blockore",
+  "description": "Gives minerals the ability to be used as a decoration block",
+  "authors": [
+    "TheKingBomb"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/blockore",
+    "sources": "https://github.com/TheKingBomb/blockore",
+    "issues": "https://github.com/TheKingBomb/blockore/issues"
+  },
+
+  "license": "CC BY-NC",
+  "icon": "assets/blockore/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.tkb.blockore.Blockore"
+    ]
+  },
+  "mixins": [
+    "blockore.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
