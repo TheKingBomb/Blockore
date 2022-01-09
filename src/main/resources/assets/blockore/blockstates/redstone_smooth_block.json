@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blockore:block/redstone_smooth_block"
+    }
+  }
+}

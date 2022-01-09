@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blockore:block/diamond_smooth_slab"
+    },
+    "type=double": {
+      "model": "blockore:block/diamond_smooth_block"
+    },
+    "type=top": {
+      "model": "blockore:block/diamond_smooth_slab_top"
+    }
+  }
+}

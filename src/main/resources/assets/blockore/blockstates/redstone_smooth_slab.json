@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "blockore:block/redstone_smooth_slab"
+    },
+    "type=double": {
+      "model": "blockore:block/redstone_smooth_block"
+    },
+    "type=top": {
+      "model": "blockore:block/redstone_smooth_slab_top"
+    }
+  }
+}
