@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:iron_bricks_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "###",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:netherite_bricks_block"
+        }
+    },
+    "result": {
+        "item": "blockore:netherite_bricks_slab",
+        "count": 6
+    }
+}

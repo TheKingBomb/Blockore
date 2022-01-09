@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:lapis_smooth_block"
+        }
+    },
+    "result": {
+        "item": "blockore:lapis_smooth_stairs",
+        "count": 4
+    }
+}

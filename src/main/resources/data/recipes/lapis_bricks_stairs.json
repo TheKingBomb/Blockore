@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:lapis_bricks_block"
+        }
+    },
+    "result": {
+        "item": "blockore:lapis_bricks_stairs",
+        "count": 4
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "gg ",
+        "gg "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:lapis_lazuli"
+        }
+    },
+    "result": {
+        "item": "blockore:lapis_smooth_block",
+        "count": 1
+    }
+}

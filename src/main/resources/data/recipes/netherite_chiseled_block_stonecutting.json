@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:netherite_smooth_block"
+    },
+    "result": "blockore:netherite_chiseled_block",
+    "count": 1
+}

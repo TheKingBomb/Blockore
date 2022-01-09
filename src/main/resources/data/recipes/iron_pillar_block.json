@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:iron_smooth_block"
+        }
+    },
+    "result": {
+        "item": "blockore:iron_pillar_block",
+        "item": "blockore:iron_pillar_block",
+        "count": 2
+    }
+}

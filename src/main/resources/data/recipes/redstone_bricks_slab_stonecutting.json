@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:redstone_bricks_block"
+    },
+    "result": "blockore:redstone_bricks_slab",
+    "count": 2
+}

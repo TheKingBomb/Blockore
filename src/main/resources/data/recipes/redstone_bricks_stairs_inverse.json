@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:redstone_bricks_stairs"
+        }
+    },
+    "result": {
+        "item": "minecraft:redstone",
+        "count": 3
+    }
+}
