@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "blockore:block/emerald_smooth_block",
+    "top": "blockore:block/emerald_smooth_block",
+    "side": "blockore:block/emerald_smooth_block_side"
+  }
+}

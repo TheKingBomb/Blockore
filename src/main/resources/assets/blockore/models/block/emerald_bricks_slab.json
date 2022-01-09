@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blockore:block/cut_emerald",
+    "top": "blockore:block/cut_emerald",
+    "side": "blockore:block/cut_emerald"
+  }
+}

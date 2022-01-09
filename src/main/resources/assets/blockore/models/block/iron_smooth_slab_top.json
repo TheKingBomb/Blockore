@@ -1,0 +1,13 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blockore:block/iron_smooth_block_side",
+    "top": "blockore:block/iron_smooth_block_side",
+    "side": "blockore:block/iron_smooth_block_side"
+
+  }
+}
+
+
+
+

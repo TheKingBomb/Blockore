@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blockore:block/cut_lapis",
+    "top": "blockore:block/cut_lapis",
+    "side": "blockore:block/cut_lapis"
+  }
+}

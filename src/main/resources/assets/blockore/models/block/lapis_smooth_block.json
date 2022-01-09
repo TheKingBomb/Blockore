@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+  	"end": "blockore:block/lapis_smooth_block",
+    "side": "blockore:block/lapis_smooth_block_side"
+  }
+}

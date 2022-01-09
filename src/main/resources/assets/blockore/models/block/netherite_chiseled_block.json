@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+  	"end": "blockore:block/chiseled_netherite_block_top",
+    "side": "blockore:block/chiseled_netherite_block"
+  }
+}

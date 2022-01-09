@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "blockore:block/gold_smooth_block_side",
+    "top": "blockore:block/gold_smooth_block_side",
+    "side": "blockore:block/gold_smooth_block_side"
+  }
+}
