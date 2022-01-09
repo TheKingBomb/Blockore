@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:diamond_bricks_block"
+    },
+    "result": "blockore:diamond_bricks_stairs",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:coal_smooth_block"
+    },
+    "result": "blockore:coal_smooth_stairs",
+    "count": 1
+}

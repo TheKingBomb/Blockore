@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "###",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:diamond_smooth_block"
+        }
+    },
+    "result": {
+        "item": "blockore:diamond_smooth_slab",
+        "count": 6
+    }
+}

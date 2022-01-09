@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "gg ",
+        "gg "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:coal"
+        }
+    },
+    "result": {
+        "item": "blockore:coal_smooth_block",
+        "count": 1
+    }
+}

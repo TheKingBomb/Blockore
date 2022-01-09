@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:emerald_bricks_block"
+    },
+    "result": "blockore:emerald_bricks_stairs",
+    "count": 1
+}

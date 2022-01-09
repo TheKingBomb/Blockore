@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "gg ",
+        "gg "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "blockore:emerald_smooth_block",
+        "count": 1
+    }
+}

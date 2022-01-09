@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:emerald_smooth_block"
+    },
+    "result": "blockore:emerald_smooth_slab",
+    "count": 2
+}

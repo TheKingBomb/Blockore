@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " # ",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "blockore:gold_smooth_block"
+        }
+    },
+    "result": {
+        "item": "blockore:gold_pillar_block",
+        "item": "blockore:gold_pillar_block",
+        "count": 2
+    }
+}

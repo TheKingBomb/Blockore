@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "blockore:diamond_smooth_block"
+    },
+    "result": "blockore:diamond_smooth_slab",
+    "count": 2
+}
